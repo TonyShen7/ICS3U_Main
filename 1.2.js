@@ -5,6 +5,5 @@ let area = length*width
 console.log("Area: "+area);
 
 let first_name = "Santa";
-let last_name = "Claws";
 let last_name = "Claus";
-console.log("I still believe in "+first_name+last_name);
+console.log("I still believe in "+first_name+" "+last_name);
